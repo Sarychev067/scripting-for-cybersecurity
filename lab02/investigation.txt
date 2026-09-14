@@ -90,7 +90,6 @@ RBENV_ROOT=/usr/local/share/rbenv
 OLDPWD=/workspaces/scripting-for-cybersecurity/lab02/logs
 GOPATH=/go
 TERM_PROGRAM=vscode
-VSCODE_IPC_HOOK_CLI=/tmp/vscode-ipc-2c31fa97-9f54-49b8-883f-0e759f7f446e.sock
-_=/usr/bin/env
+
 
 7
