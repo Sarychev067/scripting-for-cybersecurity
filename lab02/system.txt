@@ -1,0 +1,4 @@
+]633;E;whoami;84c54e66-b174-4dd9-92e4-e1e83f58e870]633;Ccodespace
+codespaces-dfd2ac
+Mon Sep 14 14:53:50 UTC 2026
+/workspaces/scripting-for-cybersecurity/lab02
